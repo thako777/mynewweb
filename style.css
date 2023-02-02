@@ -1,0 +1,27 @@
+p{
+
+    color: rgb(61, 45, 45);
+}
+
+header, footer {
+    background-color: #efeff3;
+}
+
+span {
+    color: rgb(33, 33, 177);
+}
+
+.large-text {
+    font-size: 20px;
+ }
+
+ #logo-img {
+    width: 190px;
+ }
+
+ #color-yellow {
+    color: rgb(37, 163, 21);
+}
+img{
+    width: 300px;
+}
